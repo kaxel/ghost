@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tryghost/html-to-mobiledoc": "^0.2.5"
+  }
+}

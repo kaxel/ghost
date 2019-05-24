@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "exported_on": 9999999999999,
+    "version": "2.14.0"
+  },
+  "data": {
+    "posts": [
+      {
+        "id": 1,
+        "title": "my blog post title",
+        "slug": "my-blog-post-title",
+	    "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"THIS IS MY HTML\"]]]]}",
+        "feature_image": null,
+        "featured": 0,
+        "page": 0,
+        "status": "published",
+        "published_at": 9999999999999,
+        "published_by": 1,
+        "meta_title": null,
+        "meta_description": null,
+        "author_id": 1,
+        "created_at": 9999999999999,
+        "created_by": 1,
+        "updated_at": 9999999999999,
+        "updated_by": 1
+      }
+    ],
+	
+    "tags": [
+      {
+        "id": 99,
+        "name": "Roots",
+        "slug": "roots",
+		"description": ""
+      }
+    ],
+    "posts_tags": [
+      {
+        "tag_id": 99,
+        "post_id": 1
+      }
+      
+    ]
+  }
+}
